@@ -1,0 +1,111 @@
+{
+  "location": {
+    "locked": false,
+    "longitude": -96.78152292966843,
+    "latitude": 33.035652557603285
+  },
+  "polygons": [
+    {
+      "points": [
+        {
+          "longitude": -96.78174689412117,
+          "latitude": 33.0356986534876
+        },
+        {
+          "longitude": -96.78158830851316,
+          "latitude": 33.03569556169123
+        },
+        {
+          "longitude": -96.78158562630415,
+          "latitude": 33.035803212355304
+        },
+        {
+          "longitude": -96.78166877478361,
+          "latitude": 33.03580967701241
+        },
+        {
+          "longitude": -96.78167279809713,
+          "latitude": 33.03584031385919
+        },
+        {
+          "longitude": -96.78174957633018,
+          "latitude": 33.03584003278724
+        }
+      ],
+      "style": 0,
+      "area": "2260.0",
+      "color": 2,
+      "layer": "Layer 1",
+      "colorHex": "000000",
+      "thickness": 1,
+      "type": 0,
+      "perimeter": "199.6",
+      "name": "Structure 1"
+    },
+    {
+      "points": [
+        {
+          "longitude": -96.78167045116425,
+          "latitude": 33.03592519754415
+        },
+        {
+          "longitude": -96.78155176341534,
+          "latitude": 33.035928570404096
+        }
+      ],
+      "style": 0,
+      "area": "0.0",
+      "color": 2,
+      "layer": "Layer 1",
+      "colorHex": "000000",
+      "thickness": 1,
+      "type": 1,
+      "perimeter": "36.3",
+      "name": "Line 2"
+    }
+  ],
+  "markers": [
+    {
+      "detail": "Roof Opening",
+      "location": {
+        "longitude": -96.78171303123236,
+        "latitude": 33.03586448604271
+      },
+      "code": "Roof Opening",
+      "notes": "Roof Opening",
+      "markerId": 0,
+      "imageURL": "file:///var/containers/Bundle/Application/E2BB7CE4-5CB9-496A-B1D5-787D53A87DB9/TechRoutes.app/www/resources/images/diagramMarkers/close.gif",
+      "index": 1
+    },
+    {
+      "detail": "Ant description",
+      "location": {
+        "longitude": -96.78161110728979,
+        "latitude": 33.03584452993818
+      },
+      "code": "Ant Code",
+      "notes": "Ant Notes",
+      "layer": "Layer 1",
+      "markerId": 0,
+      "imageURL": "file:///var/containers/Bundle/Application/E2BB7CE4-5CB9-496A-B1D5-787D53A87DB9/TechRoutes.app/www/resources/images/diagramMarkers/ant.gif",
+      "index": 2
+    },
+    {
+      "detail": "Bait Description",
+      "location": {
+        "longitude": -96.78167782723904,
+        "latitude": 33.03575290044251
+      },
+      "code": "Bait Code",
+      "notes": "Bait Notes",
+      "layer": "Layer 2",
+      "markerId": 0,
+      "imageURL": "file:///var/containers/Bundle/Application/E2BB7CE4-5CB9-496A-B1D5-787D53A87DB9/TechRoutes.app/www/resources/images/diagramMarkers/baitBox.gif",
+      "index": 3
+    }
+  ],
+  "layerTypes": [
+    "Layer 1",
+    "Layer 2"
+  ]
+}
